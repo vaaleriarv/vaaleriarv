@@ -3,13 +3,24 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<!-- 📝 Description -->
-<p>
-  I'm a Computer Engineering graduate with a passion for data, automation, and smart systems. <br>
-  I love turning messy problems into clean, practical solutions. <br>
-  Currently learning more about Python, data analysis, and cloud-based tools ☁️. <br>
-  If I'm not gaming , I'm probably designing dashboards.
-</p>
+
+<table>
+  <tr>
+    <td>
+      <p>
+        I'm a Computer Engineering graduate with a passion for data, automation, and smart systems. <br>
+        I love turning messy problems into clean, practical solutions. <br>
+        Currently learning more about Python, data analysis, and cloud-based tools ☁️. <br>
+        If I'm not gaming, I'm probably designing dashboards.
+      </p>
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ6ZHk1cWQ1aTEwdHQ3eHE4azRpOHF6bHdtZ2dkbGg4NGs0cHJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5tMX3AGXnBBcs/giphy.gif" width="300">
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
